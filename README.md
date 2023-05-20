@@ -9,10 +9,6 @@
 
 - 💼 Actively seeking internship opportunities to put my skills into practice and learn from industry professionals.
 
-- 👨‍💻 Some of my projects are available [here](https://github.com/agracanin?tab=repositories)
-
-- ⚡ Fun fact: I love traveling and exploring new cultures – my goal is to set foot on all seven continents!
-
 - 📫 You can reach me at **alengracanin@gmail.com**
 
 <h3 align="center">🛠️ Tools of the trade:</h3>

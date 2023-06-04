@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alen Gracanin</h1>
-<h3 align="center">🕹 When not coding, you can find me at the gym, gaming, exploring the great outdoors, or hunting down the perfect cup of coffee. ☕</h3>
+<h3 align="center">🕹 When not coding, you can find me at the gym, exploring the great outdoors, or hunting down the perfect cup of coffee. ☕</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=agracanin&label=Profile%20views&color=0e75b6&style=flat" alt="agracanin" /> </p>
 
